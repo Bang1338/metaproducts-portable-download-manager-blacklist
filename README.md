@@ -28,7 +28,7 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * Wazza Hazza
 * Enes S
 * Espano Dila
-* Nexon Holland, inc.
+* Nexon Holland, inc. (likely [this](https://www.nexon.com/main/en))
 * Marcelo D. Cunarro
 * aysun deliveren
 * E.E.
@@ -38,9 +38,10 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * Don Cunningham
 * steven mcmanus
 * Tony Mnasour Mansour
-* Grandma ...
+* [Grandma ...](https://www.oxfordlearnersdictionaries.com/definition/english/grandma?q=Grandma)
 * Ruhi Albana
-* Daniel Isovescu
+* Daniel Isovescu ([ref](https://media.discordapp.net/attachments/954077931360124939/1055112371384893490/image.png))
+* Isovescu
 * Francoise Mc Ilwain
 * Elpida Trimandilis
 * jean sebastien
@@ -56,10 +57,10 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * nikita el carloos
 * Michael Kelly
 * Benito Jurado Torres
-* SMK-TEAM
+* SMK-TEAM (likely cracker team, but not found)
 * Julie A Ramsay
 * Radhakrishnan Nair
-* [Geo4ce[TSRh] ](https://cdn.discordapp.com/attachments/945841557226020888/1055105543431278642/image.png) 
+* Geo4ce[TSRh] ([ref](https://cdn.discordapp.com/attachments/945841557226020888/1055105543431278642/image.png))
 * Roger Thompson
 * DraCoola Khaironny
 * James Santos
@@ -83,7 +84,7 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * CONDE ESTELA MARIA
 * Jan Wightwick
 * Combes Mountains
-* Mujahid, Inc.
+* Mujahid, Inc. (likely [this](https://mujahidgroup.com/))
 * cheryl keene
 * Pema Gyalpo
 * RICHARD K. GROSS
@@ -104,9 +105,9 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * Joyce Honey
 * Jake Edgren
 * Chan Chun Wing
-* XSoft
+* XSoft (likely: [Other](http://www.xsoftin.com/), [Other (Vietnam)](http://xsoft.com.vn/), cracker team)
 * KIM JOONRYE
-* home
+* [home](https://en.wikipedia.org/wiki/Home)
 * doreen shepherd
 * Michael Hsu
 * gregory cabrera
@@ -219,9 +220,9 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * mostafa adnan
 * Laura Lindt
 * ketan patel
-* Blackmarket Inc.
+* Blackmarket Inc. (likely [this](https://www.blackmarket-inc.com/))
 * djoeragan
-* private
+* [private](https://www.oxfordlearnersdictionaries.com/definition/english/private_1?q=private)
 * M@nster Art's
 * kecoak elektronik
 * Nora Graf
@@ -284,9 +285,9 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * Mladen Zic
 * jOY GOLDSCHMIDT
 * Pablo Zeballos
-* none
+* [none](https://www.oxfordlearnersdictionaries.com/definition/english/none_1?q=none)
 * Joel Hoade
-* hotmail
+* [hotmail](https://en.wikipedia.org/wiki/Outlook.com)
 * Carol Crandall
 * Charles Noble
 * Christopher F Goff
@@ -299,7 +300,7 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * Nicholas Booth
 * [Max Martin](https://en.wikipedia.org/wiki/Max_Martin)
 * Joshua Phelps
-* [Vo Quang Le](https://vi.wikipedia.org/wiki/Quang_L%C3%AA)
+* Vo Quang Le (likely [this](https://vi.wikipedia.org/wiki/Quang_L%C3%AA))
 * Donald zide
 * Victoria Lopez
 * Vladimir Lukyanov
@@ -310,7 +311,7 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * James Topeka
 * Skelton James
 * erin dougherty
-* CgiBin Inc.
+* CgiBin Inc. (likely cracker team, but not found)
 * Roger Kendrick
 * John Henry
 * Amy Karas
@@ -327,10 +328,35 @@ A list of blacklisted name in MetaProducts Portable Download Manager (discontinu
 * Dave Dsexytoy
 
 
-## Where are they?
+## Question and Answer
+
+#### Why blacklist?
+* Theory 1: Prevent some piracy team
+* Theory 2: Prevent using the name from MetaProducts Team or some personal infomation
+* Theory 3: idk
+
+### Where to download?
+[Here](https://cdn.discordapp.com/attachments/982277729699364914/1054176730379722874/pdmsetup.exe), thank to r0ger for this.
+
+#### Where are they?
 The blacklist is encoded in the exe file. I wish it's was .NET, but it's not, it's Borland Delphi.
 
 For quick, my friend [r0ger](https://github.com/r0ger888) did a list of blacklisted name and embed in his keygen, see [here](https://github.com/r0ger888/metaproducts-portable-download-manager-3.8.827-keygen/blob/main/blacklist.inc)
 * First, the exe is packed with ASPack, we have to unpack first.
 * Second, fire up IDA Pro (keep in mind the app is 32bit.)
 * Third, find `sub_7D5DD0` and you'll see the bunch of blacklisted name.
+
+
+## Views?
+<p align="left">
+Mine:
+    <img class="center" src="https://cdn.discordapp.com/attachments/777993599055953940/1055104283453952090/image.png" alt="my views"/>
+</p>
+
+
+<p align="left">
+r0ger:
+    <img class="center" src="https://cdn.discordapp.com/attachments/777993599055953940/1055103112936964167/vvvvvvvvvv.PNG" alt="r0ger's views"/>
+</p>
+
+* Yes, you can check it.
