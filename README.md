@@ -48,3 +48,7 @@ r0ger:
 </p>
 
 * Yes, you can check it.
+
+## Credit
+* [r0ger](https://github.com/r0ger888) - For blacklist discover and installer
+* Dilik - For idea
