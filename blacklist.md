@@ -254,7 +254,7 @@
 * hassan gm
 * Janet DeFee
 * Julio Dimas
-* John Neas III
+* [John Neas III](https://www.linkedin.com/in/john-neas-iii-a27ab9132)
 * vftewasd
 * serterygert
 * Piero Ronca
